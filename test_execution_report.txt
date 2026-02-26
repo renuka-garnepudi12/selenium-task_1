@@ -1,0 +1,69 @@
+🏢 Company Details
+
+Company Name: CODTECH IT SOLUTIONS
+
+Intern Name: Garnepudi Renuka Rani
+
+Intern ID: CTIS55575
+
+Domain: Software Testing
+
+Task: Selenium Task-1
+
+Tool Used: Selenium WebDriver
+
+Browser: Mozilla Firefox
+
+✅ Test Case 1: Login Functionality
+🎯 Objective:
+
+To verify that the user can successfully log in using valid credentials.
+
+🔹 Steps Performed:
+
+Launch Mozilla Firefox browser
+
+Navigate to the login page (https://the-internet.herokuapp.com/login
+)
+
+Enter valid username and password
+
+Click on the Login button
+
+🔎 Expected Result:
+
+User should be redirected to the secure page with a success message.
+
+📌 Actual Result:
+
+Login was successful and secure page displayed.
+
+📊 Status:
+
+PASS ✅
+
+✅ Test Case 2: Navigation / Logout Functionality
+🎯 Objective:
+
+To verify that the user can successfully log out and navigate back to the login page.
+
+🔹 Steps Performed:
+
+Click on the Logout button after successful login
+
+🔎 Expected Result:
+
+User should be redirected back to the login page.
+
+📌 Actual Result:
+
+User successfully navigated back to the login page.
+
+📊 Status:
+
+PASS ✅
+
+🏁 Overall Test Result
+
+All test cases executed successfully without errors.
+The login and navigation functionalities are working as expected.
